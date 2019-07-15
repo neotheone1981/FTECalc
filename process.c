@@ -5,6 +5,8 @@
 
 #include <stdio.h>
 #include <string.h>
+/*Without the include below, code will not work*/
+#include <stdlib.h>
 
 typedef struct{
   char rank[50];
